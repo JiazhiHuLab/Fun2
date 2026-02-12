@@ -1,5 +1,5 @@
 # Fun2
-[![DOI](https://zenodo.org/badge/DOI_ID.svg)](https://doi.org/10.5281/zenodo.18620967)
+[![DOI](https://zenodo.org/badge/950469773.svg)](https://doi.org/10.5281/zenodo.18620966)
 
 A **reinforcement learning framework** for the dynamic tracing of **chromatin fountains/stripes**
 <!-- Here is the workflow of Fun2 -->
