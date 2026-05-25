@@ -313,3 +313,18 @@ After running Fun2, the output directory contains the following key files and su
   url     = {https://doi.org/10.1101/2025.02.25.640072}
 }
 ```
+
+```bibtex
+@article{Zhangding2025Fun2,
+  title   = {Deciphering the dual effects of transcription on {DNA} replication elongation by replication-associated {Micro-C}},
+  author  = {Zhangding, Z. and Liu, X. and Liang, H. and Fan, Y. and Peng, Y. and Rao, W. and Chen, W. and Hu, J.},
+  journal = {Molecular Cell},
+  year    = {2026},
+  volume  = {86},
+  number  = {10},
+  pages   = {1870--1880.e5},
+  doi     = {10.1016/j.molcel.2026.03.034},
+  url     = {https://doi.org/10.1016/j.molcel.2026.03.034}
+  pmid    = {42019499}
+}
+```
