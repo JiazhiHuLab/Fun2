@@ -302,7 +302,7 @@ After running Fun2, the output directory contains the following key files and su
 [⬆️ Back to top](#table-of-contents)
 
 ---
-# Citation
+# Citations
 ```bibtex
 @article{Zhangding2025Fun2,
   title   = {Characterizing trajectory-like chromatin architectures with Fun2},
